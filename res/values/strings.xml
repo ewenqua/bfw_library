@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Battle for Wesnoth</string>
+
+
+    <string name="init">Initializing</string>
+    <string name="please_wait">Please wait while data is being downloaded</string>
+
+    <string name="device_config">Device configuration</string>
+    <string name="device_change_cfg">Change configuration</string>
+
+    <string name="download_unneeded">No need to download</string>
+    <string name="connecting_to">Connecting to %s</string>
+    <string name="failed_connecting_to">Failed connecting to %s</string>
+    <string name="error_connecting_to">Error connecting to %s</string>
+    <string name="dl_from">Downloading data from %s</string>
+    <string name="error_dl_from">Error downloading data from %s</string>
+    <string name="error_write">Error writing to %s</string>
+    <string name="dl_progress">%1$.0f%% done: file %2$s</string>
+    <string name="dl_finished">Finished</string>
+
+    <string name="storage_phone">Internal storage - %d MB free</string>
+    <string name="storage_sd">SD card storage - %d MB free</string>
+    <string name="storage_custom">Specify directory</string>
+    <string name="storage_question">Data installation location</string>
+    <string name="downloads">Select packages to download</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="storage_commandline">Specify command line parameters</string>
+    
+    <string name="controls_arrows">Arrows / joystick / dpad</string>
+    <string name="controls_trackball">Trackball</string>
+    <string name="controls_accel">Accelerometer</string>
+    <string name="controls_touch">Touchscreen only</string>
+    <string name="controls_question">What kind of navigation keys does your device have?</string>
+
+    <string name="controls_additional">Additional controls</string>
+    <string name="controls_screenkb">On-screen keyboard</string>
+    <string name="controls_accelnav">Accelerometer</string>
+
+    <string name="controls_screenkb_size">On-screen keyboard size</string>
+    <string name="controls_screenkb_drawsize">Size of button images</string>
+    <string name="controls_screenkb_large">Large</string>
+    <string name="controls_screenkb_medium">Medium</string>
+    <string name="controls_screenkb_small">Small</string>
+    <string name="controls_screenkb_tiny">Tiny</string>
+    <string name="controls_screenkb_theme">On-screen keyboard theme</string>
+    <string name="controls_screenkb_by">%1$s by %2$s</string>
+    <string name="controls_screenkb_transparency">On-screen keyboard transparency</string>
+    <string name="controls_screenkb_trans_0">Invisible</string>
+    <string name="controls_screenkb_trans_1">Almost invisible</string>
+    <string name="controls_screenkb_trans_2">Transparent</string>
+    <string name="controls_screenkb_trans_3">Semi-transparent</string>
+    <string name="controls_screenkb_trans_4">Non-transparent</string>
+
+    <string name="trackball_no_dampening">No dampening</string>
+    <string name="trackball_fast">Fast</string>
+    <string name="trackball_medium">Medium</string>
+    <string name="trackball_slow">Slow</string>
+    <string name="trackball_question">Trackball dampening</string>
+
+    <string name="accel_veryfast">Very fast</string>
+    <string name="accel_fast">Fast</string>
+    <string name="accel_medium">Medium</string>
+    <string name="accel_slow">Slow</string>
+    <string name="accel_veryslow">Very slow</string>
+    <string name="accel_question">Accelerometer sensitivity</string>
+
+    <string name="accel_floating">Floating</string>
+    <string name="accel_fixed_start">Fixed when application starts</string>
+    <string name="accel_fixed_horiz">Fixed to table desk orientation</string>
+    <string name="accel_question_center">Accelerometer center position</string>
+
+    <string name="mouse_emulation">Mouse emulation</string>
+    <string name="rightclick_question">Right mouse click</string>
+    <string name="rightclick_menu">Menu key</string>
+    <string name="rightclick_key">Physical key</string>
+    <string name="rightclick_multitouch">Touch screen with second finger</string>
+    <string name="rightclick_pressure">Touch screen with force</string>
+    <string name="rightclick_none">Disable right mouse click</string>
+
+    <string name="leftclick_question">Left mouse click</string>
+    <string name="leftclick_normal">Normal</string>
+    <string name="leftclick_near_cursor">Touch near mouse cursor</string>
+    <string name="leftclick_multitouch">Touch screen with second finger</string>
+    <string name="leftclick_pressure">Touch screen with force</string>
+    <string name="leftclick_dpadcenter">Trackball click / joystick center</string>
+    <string name="leftclick_timeout">Hold at the same spot</string>
+    <string name="leftclick_tap">Tap</string>
+    <string name="leftclick_tap_or_timeout">Tap or hold</string>
+    <string name="leftclick_timeout_time">Holding timeout</string>
+    <string name="leftclick_timeout_time_0">0.3 sec</string>
+    <string name="leftclick_timeout_time_1">0.5 sec</string>
+    <string name="leftclick_timeout_time_2">0.7 sec</string>
+    <string name="leftclick_timeout_time_3">1 sec</string>
+    <string name="leftclick_timeout_time_4">1.5 sec</string>
+    <string name="click_with_dpadcenter">Left mouse click with trackball / joystick center</string>
+
+    <string name="pointandclick_question">Advanced features</string>
+    <string name="pointandclick_keepaspectratio">Keep 4:3 screen aspect ratio</string>
+    <string name="pointandclick_showcreenunderfinger">Show screen under finger in separate window</string>
+    <string name="pointandclick_showcreenunderfinger2">On-screen magnifying glass</string>
+    <string name="pointandclick_joystickmouse">Move mouse with joystick or trackball</string>
+    <string name="pointandclick_joystickmousespeed">Move mouse with joystick speed</string>
+    <string name="pointandclick_joystickmouseaccel">Move mouse with joystick acceleration</string>
+    <string name="pointandclick_relative">Relative mouse movement (laptop mode)</string>
+    <string name="pointandclick_relative_speed">Relative mouse movement speed</string>
+    <string name="pointandclick_relative_accel">Relative mouse movement acceleration</string>
+
+    <string name="none">None</string>
+
+    <string name="measurepressure">Calibrate touchscreen pressure</string>
+    <string name="measurepressure_touchplease">Please slide finger across the screen for two seconds</string>
+    <string name="measurepressure_response">Pressure %1$03d radius %2$03d</string>
+
+    <string name="audiobuf_verysmall">Very small (fast devices, less lag)</string>
+    <string name="audiobuf_small">Small</string>
+    <string name="audiobuf_medium">Medium</string>
+    <string name="audiobuf_large">Large (older devices, if sound is choppy)</string>
+    <string name="audiobuf_question">Size of audio buffer</string>
+
+    <string name="remap_hwkeys">Remap physical keys</string>
+    <string name="remap_hwkeys_press">Press any key except HOME and POWER, you may use volume keys</string>
+    <string name="remap_hwkeys_select">Select SDL keycode</string>
+
+    <string name="remap_screenkb">Remap on-screen controls</string>
+    <string name="remap_screenkb_joystick">On-screen joystick</string>
+    <string name="remap_screenkb_button">On-screen button</string>
+    <string name="remap_screenkb_button_text">On-screen text input button</string>
+    <string name="remap_screenkb_button_gestures">Two-finger screen gestures</string>
+    <string name="remap_screenkb_button_gestures_sensitivity">Two-finger screen gestures sensitivity</string>
+    <string name="remap_screenkb_button_zoomin">Zoom in two-finger gesture</string>
+    <string name="remap_screenkb_button_zoomout">Zoom out two-finger gesture</string>
+    <string name="remap_screenkb_button_rotateleft">Rotate left two-finger gesture</string>
+    <string name="remap_screenkb_button_rotateright">Rotate right two-finger gesture</string>
+
+    <string name="screenkb_custom_layout">Customize on-screen keyboard layout</string>
+    <string name="screenkb_custom_layout_help">Slide screen to add button, press BACK to undo last button</string>
+
+    <string name="calibrate_touchscreen">Calibrate touchscreen</string>
+    <string name="calibrate_touchscreen_touch">Touch all edges of the screen, press BACK when done</string>
+
+    <string name="video">Video settings</string>
+    <string name="video_smooth">Linear video filtering</string>
+    <string name="video_separatethread">Separate thread for video, will increase FPS on some devices</string>
+
+    <string name="text_edit_click_here">Tap to start typing, press Back when done</string>
+
+    <string name="display_size_mouse">Mouse emulation mode</string>
+    <string name="display_size">Display size for mouse emulation</string>
+    <string name="display_size_large">Large (tablets)</string>
+    <string name="display_size_small">Small, magnifying glass</string>
+    <string name="display_size_small_touchpad">Small, touchpad mode</string>
+    <string name="display_size_tiny">Tiny</string>
+    <string name="display_size_tiny_touchpad">Tiny, touchpad mode</string>
+
+    <string name="show_more_options">Show more options</string>
+
+    <string name="broken_libc_title">Broken OS detected</string>
+    <string name="broken_libc_text">Your device has broken system libraries, this application will most probably crash. Please install a system update, or flash a custom ROM, or copy file /system/lib/libc.so from another device (experts only!)</string>
+
+    <string name="hardware_mouse_detected">Hardware mouse detected, disabling mouse emulation</string>
+
+    <string name="not_enough_ram">Not enough RAM</string>
+    <string name="not_enough_ram_size">This app needs %1$d Mb RAM, your device has %2$d Mb</string>
+    <string name="ignore">Ignore</string>
+
+    <string name="calibrate_gyroscope">Calibrate gyroscope</string>
+    <string name="calibrate_gyroscope_text">Put your device on a flat surface</string>
+    <string name="calibrate_gyroscope_not_supported">Your device does not have gyroscope</string>
+
+    <string name="reset_config">Reset config to defaults</string>
+    <string name="reset_config_ask">Reset all options to default values?</string>
+
+    <string name="cancel_download">Cancel data downloading?</string>
+    <string name="cancel_download_resume">You can resume it later, the data will not be downloaded twice.</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="options">Options</string>
+
+    <string name="ap_mem">Mouse emulation mode</string>
+    <string name="ap_mem1">Pointer follows finger</string>
+	<string name="ap_mem2">Pointer relative movement</string>
+
+
+	<string name="ap_mouse">Mouse emulation configuration</string>
+	<string name="ap_osk">On-screen keyboard configuration</string>
+
+	<string name="ap_osk_icons">Icons to display</string>
+	<string name="ap_osk_icons_t">Choose which icons to show</string>
+	<string name="ap_osk_kb">Software keyboard</string>
+	<string name="ap_osk_next">Next unit</string>
+	<string name="ap_osk_undo">Undo</string>
+	<string name="ap_osk_em">Show enemy moves</string>
+	<string name="ap_osk_bem">Best enemy moves</string>
+	<string name="ap_osk_save">Save game</string>
+	<string name="ap_osk_load">Load game</string>
+	<string name="ap_osk_endut">End unit turn</string>
+	<string name="ap_osk_endt">End turn</string>
+	<string name="ap_osk_updshr">Update shroud</string>
+	<string name="ap_osk_wbexec">Execute planned action</string>
+	<string name="ap_osk_wbdel">Delete planned action</string>
+	<string name="ap_osk_msg">Send message to all</string>
+	<string name="ap_osk_privmsg">Send message to allies</string>
+
+
+    <string name="ap_kb_pos">Software keyboard icon position</string>
+    <string name="ap_kb_pos_t">Choose software keyboard show/hide icon position</string>
+    <string name="ap_kb_pos1">Top left</string>
+	<string name="ap_kb_pos2">Top center</string>
+	<string name="ap_kb_pos3">Top right</string>
+
+    <string name="ap_osk_pos">Other icons position</string>
+    <string name="ap_osk_pos_t">Choose icons position</string>
+    <string name="ap_osk_pos0">Bottom left, going right</string>
+    <string name="ap_osk_pos1">Bottom left, going up</string>
+	<string name="ap_osk_pos2">Bottom right, going left</string>
+	<string name="ap_osk_pos3">Bottom right, going up</string>
+
+
+    <string name="ap_kb_size">Icon size</string>
+    <string name="ap_kb_size_t">Choose on-screen keyboard icon size</string>
+    <string name="ap_kb_size0">Large</string>
+    <string name="ap_kb_size1">Medium</string>
+    <string name="ap_kb_size2">Small</string>
+
+	<string name="ap_osk_transp">Icon transparency</string>
+	<string name="ap_osk_transp_t">Choose on-screen keyboard icon transparency</string>
+	<string name="ap_osk_transp0">Almost invisible</string>
+	<string name="ap_osk_transp1">Very transparent</string>
+	<string name="ap_osk_transp2">Transparent</string>
+	<string name="ap_osk_transp3">Almost opaque</string>
+	<string name="ap_osk_transp4">Opaque</string>
+
+
+    <string name="ap_maccel">Mouse acceleration</string>
+    <string name="ap_maccel_t">Mouse acceleration</string>
+    <string name="ap_maccel0">No acceleration</string>
+    <string name="ap_maccel1">Slowest</string>
+	<string name="ap_maccel2">Slow</string>
+	<string name="ap_maccel3">Medium</string>
+	<string name="ap_maccel4">Fast</string>
+	<string name="ap_maccel5">Faster</string>
+	<string name="ap_maccel6">Fastest</string>
+
+	<string name="ap_impexp_menu">Import/Export</string>
+    <string name="ap_impexp_exp">Export savegame data to zip</string>
+    <string name="ap_impexp_exp_file_exists">File exists. Overwrite?</string>
+    <string name="ap_impexp_exp_file">Export file</string>
+    <string name="ap_impexp_exp_res_ok">Export finished</string>
+    <string name="ap_impexp_exp_res_fail">Export failed</string>
+    <string name="ap_impexp_exp_res_nodata">No data to export</string>
+    <string name="ap_impexp_imp">Import savegame data from zip</string>
+    <string name="ap_impexp_imp_file">File to import</string>
+    <string name="ap_impexp_imp_exists">Some savegames already exists. What do you want to do?</string>
+    <string name="ap_impexp_imp_exists_overwrite">Overwrite (use zip savegames)</string>
+    <string name="ap_impexp_imp_exists_keep">Keep existing files, unpack just new ones</string>
+    <string name="ap_impexp_imp_exists_cancel">Cancel</string>
+    <string name="ap_impexp_imp_res_ok">Import finished</string>
+    <string name="ap_impexp_imp_res_fail">Import failed</string>
+    <string name="ap_impexp_imp_res_nofile">File not found</string>
+    <string name="ap_impexp_imp_res_nodata">No data to import</string>
+    
+    <string name="ap_flags_menu">Startup Options</string>
+    <string name="ap_flags_res">Set custom display resolution (use if fonts are too small)</string>
+    <string name="ap_flags_respop_title">Enter resolution values</string>
+    <string name="ap_flags_respop_width">Width</string>
+    <string name="ap_flags_respop_height">Height</string>
+    <string name="ap_flags_tut">View command tutorial on startup</string>
+    <string name="ap_flags_clean_installation">Clean installation folder</string>
+    <string name="ap_flags_clean_warn_title">Warning</string>
+    <string name="ap_flags_clean_warn">Turning this option on will keep your savegame and addons but will delete all game data and download it again.</string>
+    <string name="ap_flags_send_debug">Send debug info to developer</string>
+    <string name="ap_flags_send_stats">Send anonymous usage statistics</string>
+
+    <string name="ap_2nd_finger_tap">2nd Finger Tap Action</string>
+    <string name="ap_2nd_finger_tap_t">Select action for holding down a finger and tapping with another</string>
+    <string name="ap_2nd_finger_tap_none">No action</string>
+    <string name="ap_2nd_finger_tap_left">Left button click</string>
+    <string name="ap_2nd_finger_tap_right">Right button click</string>
+    
+	<string name="ap_tut_btn_skip">Skip</string>
+    <string name="ap_tut_btn_end">Finish</string>
+	<string name="ap_tut_btn_next">Next >></string>
+	<string name="ap_tut_btn_prev">&lt;&lt; Prev</string>
+
+	<string name="ap_tut_free1">Welcome to the free version of this android port.|Please remember that this app is intended as a trial-out so that you can see if you like it before getting the full version, which is really cheap and can be found on Google Play.|That\'s why the game will shut itself down after 10 minutes.|Now let me explain how game controls work. You can navigate through this little tutorial (or skip it) by using the buttons below.</string>
+
+	<string name="ap_tut1">Please take a minute and let me explain how game controls work. You can navigate through this little tutorial (or skip it) by using the buttons below.</string>
+
+	<string name="ap_tut2">This is an android port of "The Battle for Wesnoth", which is originally a PC game, so it\'s designed for interaction with mouse and keyboard.</string>
+	<string name="ap_tut3">On your device, you\'ll have to use a finger on the touchscreen as mouse.</string>
+	<string name="ap_tut4">To move the pointer drag your finger around the screen.</string>
+	<string name="ap_tut5">Left mouse button click is emulated with a short tap on the screen, anywhere except over the keyboard icon, which we\'ll see later.</string>
+	<string name="ap_tut6">Tap and hold for a while to emulate right mouse button click.</string>
+
+	<string name="ap_tut6a">Beware that the pointer does NOT follow the finger.|This means clicks are sent where the pointer is and not where you tap.</string>
+	<string name="ap_tut6b">However, after the first run, you can change this behaviour by clicking on the "change configuration" button which will be shown at startup and selecting the "pointer follows finger" mouse emulation mode in the menus.|In this mode, mouse pointer always follows tapping (for clicking) and swiping (for motion). This can be useful if your device has a very precise touch screen or a S-Pen.</string>
+
+	<string name="ap_tut7">If your device has an hardware keyboard, keystrokes will be sent to the application.|If you have a trackpad, it can be used to emulate keyboard arrows (thus, scroll the map and menus), while clicking on the trackpad will emulate the "Return" key.</string>
+	<string name="ap_tut7a">Swiping two fingers on the screen will emulate keybard arrows. The purpose of that is to allow easy map scrolling even if your device does not have a trackpad.</string>
+
+	<string name="ap_tut8">When the game will start, you\'ll see a keyboard icon on the top of the screen. Tap on it to open and close android software keyboard.|Also, you can perform the same action by tapping with three fingers simultaneously on the screen.</string>
+	<string name="ap_tut9">HINT: There are some keyboard apps that can be downloaded from Google Play which include the CTRL key, if your does not, so that you can use hotkeys.</string>
+	<string name="ap_tut10">You can change position and size of the software keyboard icon (or even hide it, if you want) from the second run on, by clicking on the "change configuration" button which will be shown at startup.</string>
+
+	<string name="ap_tut10a">Also, more overlay icons can be added for some in-game keyboard shortcuts.|You can enable icons you want by clicking on the "change configuration" at startup</string>
+
+	<string name="ap_tut10b">Last but not least, some of the UI configurations can be changed during the game by pressing android\'s MENU key, if your device has it, or by holding three fingers simultaneously on the screen.|However, these settings will not be saved. To make configuration changes permanent you need to use the "change configuration" button at startup.</string>
+
+	<string name="ap_tut11">That\'s all for now. Hope you\'ll have fun with this game.</string>
+
+	<string name="ap_free_close_title">Thank you for trying this Battle for Wesnoth port</string>
+	<string name="ap_free_close">Hope you enjoyed this android port. If you like it and want to remove this time limit, please consider buying the full version!</string>
+	<string name="ap_free_close_open_market">Get the full version</string>
+	<string name="ap_free_close_quit">Quit</string>
+
+	<string name="menu_mem_pff">Pointer follows finger</string>
+	<string name="menu_mem_pfr">Pointer relative movement</string>
+	<string name="menu_kb_hide">Hide on-screen keyboard</string>
+	<string name="menu_kb_show">Show on-screen keyboard</string>
+    <string name="menu_send_dbg">Send debug info now</string>
+
+    <string name="ap_upgrade_12">Upgrade to 1.12.0</string>
+	<string name="upg_12_title">Would you like to upgrade to 1.12? Beware that this is a major upgrade, so you will lose all savegames and addons.</string>
+	<string name="upg_12_yes">Yes, upgrade to 1.12.0</string>
+	<string name="upg_12_no">No, stick with 1.10.7</string>
+	<string name="upg_12_show">Show this dialog on startup</string>
+
+	<string name="upg_title">Due to upgrade to %s, new data files must be installed. Required data may be downloaded from internet. OK?</string>
+	<string name="upg_yes">Download and play</string>
+	<string name="upg_no">Bail out</string>
+
+	<string name="upg_clean">Cleaning folders&#8230;</string>
+	<string name="play_game">Start game</string>
+	<string name="quit_game">Quit</string>
+
+	<string name="cannot_create_folder">ERROR: Installation target folder cannot be created</string>
+
+	<string name="no_music_dwl">Music download is not available for the free version</string>
+
+	<string name="ap_shortcut_open_last_save">Open last save</string>
+	<string name="ap_shortcut_server">Connect to server</string>
+	<string name="ap_shortcut_campaign">Start campaign</string>
+	<string name="ap_shortcut_map_editor">Map editor</string>
+
+	<string name="ap_screenorientation_menu">Screen Orientation</string>
+	<string name="ap_screenorientation_menu_t">Select screen orientation</string>
+	<string name="ap_screenorientation_landscape">Landscape</string>
+	<string name="ap_screenorientation_reverse_landscape">Landscape, upside-down</string>
+	<string name="ap_screenorientation_portrait">Portrait</string>
+	<string name="ap_screenorientation_reverse_portrait">Portrait, upside-down</string>
+
+	<string name="ap_remap_buttons_menu">Remap buttons</string>
+	<string name="ap_remap_buttons_menu_t">Pick action to reassign</string>
+	<string name="ap_key_capture_dialog_clear">Clear association</string>
+	<string name="ap_key_capture_dialog_title">Please press the key you want to associate to the selected action</string>
+		
+	<string name="not_licensed">License check failed. Please provide a valid google play transaction ID</string>
+    <string name="licensed">License registered.</string>
+    <string name="license_grace">License check failed. Please connect to internet to let the software register itself.</string>
+	<string name="ap_insert_transaction_id">Input google play transaction ID</string>
+	<string name="ap_insert_transaction_id_title">Please insert google play transaction ID</string>
+</resources>

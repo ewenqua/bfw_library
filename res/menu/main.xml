@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_mem_pff"
+          android:title="@string/menu_mem_pff"/>
+    <item android:id="@+id/menu_mem_pfr"
+          android:title="@string/menu_mem_pfr"/>
+    <item android:id="@+id/menu_kb_show"
+	      android:title="@string/menu_kb_show"/>
+    <item android:id="@+id/menu_kb_hide"
+          android:title="@string/menu_kb_hide"/>
+    <item android:id="@+id/menu_send_dbg"
+          android:title="@string/menu_send_dbg"/>
+</menu>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+	<LinearLayout
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_centerVertical="true"
+	    android:orientation="vertical" >
+	
+	    <Button
+	        android:id="@+id/btn_shortcut_open_last_save"
+	        android:background="@drawable/tut_button"
+			android:textColor="#ffffff"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="3dp"
+	        android:layout_marginBottom="3dp"
+	        android:paddingBottom="15dp"
+	        android:paddingTop="15dp"
+	        android:text="@string/ap_shortcut_open_last_save" />
+
+	    <Button
+	        android:id="@+id/btn_shortcut_server"
+	        android:background="@drawable/tut_button"
+			android:textColor="#ffffff"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="3dp"
+	        android:layout_marginBottom="3dp"
+	        android:paddingBottom="20dp"
+	        android:paddingTop="20dp"
+	        android:text="@string/ap_shortcut_server" />
+
+	    <Button
+	        android:id="@+id/btn_shortcut_campaign"
+	        android:background="@drawable/tut_button"
+			android:textColor="#ffffff"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="3dp"
+	        android:layout_marginBottom="3dp"
+	        android:paddingBottom="20dp"
+	        android:paddingTop="20dp"
+	        android:text="@string/ap_shortcut_campaign" />
+
+	    <Button
+	        android:id="@+id/btn_shortcut_map_editor"
+	        android:background="@drawable/tut_button"
+			android:textColor="#ffffff"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="3dp"
+	        android:layout_marginBottom="3dp"
+	        android:paddingBottom="15dp"
+	        android:paddingTop="15dp"
+	        android:text="@string/ap_shortcut_map_editor" />
+
+	</LinearLayout>
+
+</RelativeLayout>
+
